@@ -18,6 +18,9 @@
     <Text Include="..\IntegerArray.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="Readme.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Merge.cpp">

@@ -1,0 +1,2 @@
+Straigtforward implementation of Merge Sort. Tracks the number of inversions encountered in the Merge() subroutine (an inversion is 
+when the n/2 -> n subarray contains an element smaller than the 0 -> n/2 subarray).
